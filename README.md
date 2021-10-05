@@ -23,4 +23,3 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 This project exists thanks to all the people who contribute.
 
 [![](https://contributors-img.web.app/image?repo=N1ght420/hacktoberfest2021)](https://github.com/N1ght420/hacktoberfest2021/graphs/contributors)
-Hacktoberfest
